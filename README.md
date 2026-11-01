@@ -1,2 +1,2 @@
-# ultimate-bdc-favicon
-Ultimate BDC logo asset
+# Leadmetrics-favicon
+Leadmetrics logo asset
